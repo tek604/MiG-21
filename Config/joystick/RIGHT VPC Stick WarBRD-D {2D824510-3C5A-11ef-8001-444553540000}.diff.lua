@@ -24,6 +24,14 @@ local diff = {
 			},
 			["name"] = "Gun reload - 3",
 		},
+		["d3190pnilu3190cd40vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Target Lock On",
+		},
 		["d3191pnilu3191cd42vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

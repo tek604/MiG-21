@@ -156,6 +156,14 @@ local diff = {
 			},
 			["name"] = "Drop Countermeasures (ASO and SPS-141)",
 		},
+		["dnilp3204unilcd41vdnilvp0.01vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "TDC Range / Pipper Span -",
+		},
 		["dnilp36unilcdnilvdnilvpnilvunil"] = {
 			["name"] = "View Center",
 			["removed"] = {
@@ -163,6 +171,14 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
+		},
+		["dnilp3704unilcd41vdnilvp0.01vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "TDC Range / Pipper Span +",
 		},
 	},
 }
