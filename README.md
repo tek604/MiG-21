@@ -1,6 +1,13 @@
 # MiG-21
 DCS configuration and files
 ===========================
+Pepega Squadron Liveries
+========================
+ROAF Fictional LanceR-A (5915)
+https://www.digitalcombatsimulator.com/en/files/3326357/
+
+VPAF '5015' of 921st Fighter Regiment Sao Do flown by Nguyễn Văn Cốc 1968
+https://www.digitalcombatsimulator.com/en/files/3336488/
 
 Location Of Controller Configs
 ==============================
